@@ -1,2 +1,3 @@
-Primer commit del projecte
 modificacio des de branch1
+modificacio des de master
+
