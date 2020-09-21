@@ -1,2 +1,2 @@
 # GitLearning
-Learning Git and GitHub
+Learning Git and GitHub (first study, not good version)
